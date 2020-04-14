@@ -4,4 +4,13 @@ Basic python training using A cloud Guru
 
 # Running
 
-`python3 find-meteors.py`
+This project requires python3 and the requests package
+
+First install pipenv, then:
+
+```
+pipenv install
+
+pipenv run "python3 find-meteors.py"
+
+```
